@@ -1,0 +1,14 @@
+Agenda – OMS Intelligence Working Session with TK & Business Group
+1. Introductions
+ Meet the new attendees and learn their roles and the areas they own.
+2. Framing
+ We'll briefly explain what the discovery questions are for and how the answers will shape the Databricks build. If a question falls outside someone's area, we'd appreciate help identifying the right person and making an introduction.
+3. Discovery questions walkthrough
+ We'll go through the questions by topic and capture answers and notes as we go. We'd like to focus on:
+How outages move through their lifecycle: reopened, merged, and edited events, and calls where the customer can't be identified
+Reliability metric definitions and the QA/QC review and approval process
+Storm management and estimated restoration times
+Historical data: what's used for reporting, how far back it goes, and how long it's kept
+Cutover planning and any period of parallel operations
+4. Next steps
+ Once the Discovery Questions doc is in the BHE environment, TK can share it with anyone else who can help answer. Remaining questions can then be handled on their own time rather than in a meeting. We'll confirm owners and follow-ups before we wrap.
